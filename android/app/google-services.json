@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535002298989",
+    "firebase_url": "https://auth-6e87d.firebaseio.com",
+    "project_id": "auth-6e87d",
+    "storage_bucket": "auth-6e87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535002298989:android:d380d543c490f192379d64",
+        "android_client_info": {
+          "package_name": "com.example.auth_flutter_coffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535002298989-ar56p6hpja80fgd7pgdalen7lh6jk942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENM1MESwKEZpGaHblaUZSebxuzXGFoAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535002298989-ar56p6hpja80fgd7pgdalen7lh6jk942.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
